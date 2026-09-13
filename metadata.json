@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance",
+  "description": "Comprehensive smart attendance monitoring, anti-proxy verification, predictive risk analysis, and institutional governance platform.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
